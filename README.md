@@ -3,12 +3,10 @@ python RSS feeds and sends to wordpress post, in a single script per rss feed.
 
 Is it possible for a website to grow passively by running monolithic scripts using our free task scheduler nodejs vuejs electronjs desktop app?
 
-mono = monolithic to run on https://canopys.io 
-"A monolith is a codebase composed all in one piece. This typically means all code in one massive codebase."
+single scripts to run on https://canopys.io per rss feed, best as possible 
 
-Each rss feed is one monolith chunk of code.
+protyping first, optimize later
 
-Monolith code be easy to add to serverless, right?
 
 # notes on rss feeds in python
 the bigger the rss feed, the more difficult the html, css, and javascript, however it also makes me learn a lot about what i dislike about my code. lot of room for easy deleting content or strange implemented advertisements in future solves as i begin to learn best practices for wildcard matching removal of content.
