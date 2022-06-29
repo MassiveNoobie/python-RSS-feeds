@@ -8,6 +8,8 @@ mono = monolithic to run on https://canopys.io
 
 Each rss feed is one monolith chunk of code.
 
+Monolith code be easy to add to serverless, right?
+
 # notes on rss feeds in python
 the bigger the rss feed, the more difficult the html, css, and javascript, however it also makes me learn a lot about what i dislike about my code. lot of room for easy deleting content or strange implemented advertisements in future solves as i begin to learn best practices for wildcard matching removal of content.
 
