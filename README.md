@@ -1,7 +1,7 @@
 # python-RSS-feeds
 python RSS feeds and sends to wordpress post, in a single script per rss feed.
 
-Is it possible for a website to grow passively by running monolithic scripts using our free task scheduler nodejs vuejs electronjs desktop app?
+Is it possible for a website to grow passively by running scripts using our free task scheduler nodejs vuejs electronjs desktop app?
 
 single scripts to run on https://canopys.io per rss feed, best as possible 
 
