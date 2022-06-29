@@ -18,6 +18,7 @@ the bigger the rss feed, the more difficult the html, css, and javascript, howev
 - add more rss feeds
 - automate it all using canopys.io
 - optimize everything
+- microservice build? ehhh maybe way down road
 
 # skipping database usage for now
 For now, workaround is the ability to automatically delete any duplicates, allowing us to keep the new content.
