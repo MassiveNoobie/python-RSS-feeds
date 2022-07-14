@@ -20,6 +20,12 @@ the bigger the rss feed, the more difficult the html, css, and javascript, howev
 - optimize everything
 - microservice build? ehhh maybe way down road
 
+- text analysis, ai/ml for usage across;
+post.terms_names = {
+    'post_tag': ['Startup', 'TechCrunch'],
+    'category': ['Tech']
+  }
+
 # skipping database usage for now
 For now, workaround is the ability to automatically delete any duplicates, allowing us to keep the new content.
 Website end point running "Delete Duplicate Posts v. 4.7.9" a free wordpress plugin, the plugin allows the mono usage.
