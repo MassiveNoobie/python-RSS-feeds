@@ -2,6 +2,9 @@
 python RSS feeds and sends to wordpress post, in a single script per rss feed.
 
 Is it possible for a website to grow passively by running scripts using our free task scheduler nodejs vuejs electronjs desktop app?
+- update "10/19/2022" large spike in traffic, growth M/M consistent
+- users grown from 10 per day to 100-200+ per day.
+- Daily avg shifted to 158\ as of october.
 
 single scripts to run on https://canopys.io per rss feed, best as possible 
 
@@ -32,9 +35,7 @@ Website end point running "Delete Duplicate Posts v. 4.7.9" a free wordpress plu
 
 
 # project status
-stuck on CNN rss feed, it's a beast, however getting closer.
-    result = str(soup.find_all("div", {"class": "zn-body__paragraph"}))
-That is all for now.
+completed rss feed for cnn. ended up requiring 3 loops to catching most of the news, excluding live news.
 
 # join?
 discord available via request, @itylergarrett on twitter
